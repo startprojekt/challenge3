@@ -1,10 +1,9 @@
-# challenge3
 Python Stack Trace Interpretation
 =================================
 
 
 Traceback Problem 1
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -32,7 +31,7 @@ to ensure we always add two integers (a ValueError may occur however).
 
 
 Traceback Problem 2
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -58,7 +57,7 @@ the line 12 to e.g. return int(x) + int(y)
 
 
 Traceback Problem 3
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -80,7 +79,7 @@ In such a case the line 15 would be the first place to visit.
 
 
 Traceback Problem 4
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -103,7 +102,7 @@ from both arguments or maybe raise an error?).
 
 
 Traceback Problem 5
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -127,7 +126,7 @@ this ValueError (maybe some if-statement before) to be explicitly raised.
 
 
 Traceback Problem 6
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -146,7 +145,7 @@ on line 30 in zip function call.
 
 
 Traceback Problem 7
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -171,7 +170,7 @@ on line 51 or handle such a situation by adding some code on line 12.
 
 
 Traceback Problem 8
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
@@ -194,7 +193,7 @@ on line 52 or handle such a case on line 12 in add function.
 
 
 Traceback Problem 9
-===================
+-------------------
 
 ```
 Traceback (most recent call last):
